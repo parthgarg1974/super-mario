@@ -2,7 +2,7 @@
 
 ##Running the program
 
-- Install requirements:
+- Install requirements:-
  - `pip install -r requirements.txt`
 - Run the program:
  - `python3 main.py`
