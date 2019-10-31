@@ -47,7 +47,7 @@
  - different scenes in the background containing clouds,mountains,tunnels,bridges,rivers,flags,walls etc
 
  #Bonus
- - color using ANSI colour codes for terminal
+ - color using ANSI color codes for terminal
  - sound
  - smart enemies which chase the player, move fast, invincible etc
 
